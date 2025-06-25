@@ -16,5 +16,5 @@ defaults:
     values:
       layout: aws_post
 
-baseurl: "/my-devops-learnings"  # if applicable
+baseurl: "/step-into-devops/"  # if applicable
 
