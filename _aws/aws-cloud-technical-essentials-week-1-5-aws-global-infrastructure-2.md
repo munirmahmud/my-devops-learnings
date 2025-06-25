@@ -117,3 +117,14 @@ AZ-কে চিহ্নিত করা হয় Region কোডের সঙ�
 
 যদি তা সম্ভব না হয়, তাহলে আপনার ওয়ার্কলোড কমপক্ষে দুটি AZ-এ replicate করুন।
 এর ফলে একটি AZ পুরোপুরি নষ্ট হলেও, দ্বিতীয় AZ থেকে আপনার অ্যাপ্লিকেশন সচল থাকবে এবং ইউজারদের ট্রাফিক পরিচালনা করতে পারবে।
+
+
+<a href="https://aws.amazon.com/about-aws/global-infrastructure/" target="_blank" rel="noopener noreferrer">AWS: Global Infrastructure</a>
+
+<a href="https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html" target="_blank" rel="noopener noreferrer">AWS: AWS Global Infrastructure Documentation</a>
+
+<a href="https://aws.amazon.com/about-aws/global-infrastructure/regions_az/" target="_blank" rel="noopener noreferrer">AWS: AWS Regions and Availability Zones</a>
+
+<a href="https://docs.aws.amazon.com/general/latest/gr/rande.html" target="_blank" rel="noopener noreferrer">AWS: AWS service endpoints</a>
+
+<a href="https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/" target="_blank" rel="noopener noreferrer">AWS: AWS Regional Services</a>
