@@ -10,9 +10,11 @@ layout: aws_post
 
 Cloud অ্যাপ্লিকেশনের ভিত্তি হিসেবে এখনো ফিজিক্যাল ইনফ্রাস্ট্রাকচার, যেমন ডেটা সেন্টার ও নেটওয়ার্ক কানেক্টিভিটি বিদ্যমান। AWS-এ এই ফিজিক্যাল ইনফ্রাস্ট্রাকচার গঠন করে **AWS Global Infrastructure**, যার কাঠামোতে রয়েছে **Availability Zones (AZ)** এবং **Regions**।
 
----
 
-### **Regions কী?**
+### Regions কী?
+
+![Regions]({{ site.baseurl }}/assets/images/regions.png)
+
 
 **Regions** হলো বিশ্বের বিভিন্ন ভৌগলিক অবস্থানে অবস্থিত জায়গা, যেখানে AWS তাদের ডেটা সেন্টার হোস্ট করে। প্রতিটি AWS Region-এর নাম সেই এলাকার নাম অনুসারে দেওয়া হয়।
 
@@ -26,6 +28,9 @@ Cloud অ্যাপ্লিকেশনের ভিত্তি হিসে
 
 1. ভৌগলিক নাম (Geographical Name)
 2. Region কোড (Region Code)
+
+![Regions Code]({{ site.baseurl }}/assets/images/region-code.png)
+
 
 **Region কোডের কয়েকটি উদাহরণ:**
 
