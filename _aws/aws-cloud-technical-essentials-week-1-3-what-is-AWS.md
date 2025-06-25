@@ -1,5 +1,5 @@
 ---
-title: Reading 1.2: What is AWS?
+title: What is AWS?
 order: 3
 ---
 
