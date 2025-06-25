@@ -1,6 +1,6 @@
 ---
 title: AWS IAM
-order: 1
+order: 4
 ---
 
 # AWS Identity and Access Management (IAM)
