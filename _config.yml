@@ -2,3 +2,19 @@ title: My Markdown Website
 description: A website built using GitHub Pages and Markdown
 theme: null
 markdown: kramdown
+
+
+collections:
+  aws:
+    output: true
+    permalink: /aws/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "aws"
+    values:
+      layout: aws_post
+
+baseurl: "/my-devops-learnings"  # if applicable
+

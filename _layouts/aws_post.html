@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+</head>
+<body>
+  {% include nav.html %}
+
+  <main>
+    {{ content }}
+
+    <hr>
+
+    <div style="display: flex; justify-content: space-between;">
+      {% assign posts = site.aws | sort: "order" %}
+      {% assign current_index = posts | index_of: page %}
+      {% assign prev = posts[current_index | minus: 1] %}
+      {% assign next = posts[current_index | plus: 1] %}
+
+      {% if prev %}
+        <a href="{{ prev.url }}">← {{ prev.title }}</a>
+      {% endif %}
+
+      {% if next %}
+        <a href="{{ next.url }}">{{ next.title }} →</a>
+      {% endif %}
+    </div>
+  </main>
+</body>
+</html>
