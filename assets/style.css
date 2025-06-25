@@ -40,3 +40,17 @@ main p {
 main p > strong {
     font-size: 1.2rem;
 }
+
+/* PAGINATION */
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+}
+.pagination a {
+  text-decoration: none;
+  color: #d1d7e0;
+  padding: 0.5rem 1rem;
+}

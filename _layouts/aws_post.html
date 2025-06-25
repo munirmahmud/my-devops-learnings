@@ -15,7 +15,7 @@
 
     <hr>
 
-    <div style="display: flex; justify-content: space-between;">
+    <div class="pagination">
       {% assign posts = site.aws | sort: "order" %}
       {% assign current_index = posts | index_of: page %}
       {% assign prev = posts[current_index | minus: 1] %}
