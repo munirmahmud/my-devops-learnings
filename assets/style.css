@@ -13,6 +13,10 @@ body {
   color: #d1d7e0;
 }
 
+nav {
+  margin-bottom: 3rem;
+}
+
 nav ul {
   display: flex;
   align-items: center;
@@ -26,4 +30,13 @@ nav a {
   text-decoration: none;
   font-weight: bold;
   color: #d1d7e0
+}
+
+main p {
+  line-height: 1.8;
+  margin-bottom: 1rem;
+}
+
+main p > strong {
+    font-size: 1.2rem;
 }
