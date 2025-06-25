@@ -4,7 +4,7 @@ title: AWS Topics
 permalink: /aws/
 ---
 
-# AWS Learning Posts
+# AWS Cloud Technical Essentials
 
 <ul>
   {% assign sorted_posts = site.aws | sort: "order" %}
