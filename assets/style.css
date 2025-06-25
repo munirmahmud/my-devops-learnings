@@ -41,6 +41,14 @@ main p > strong {
     font-size: 1.2rem;
 }
 
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+
 /* PAGINATION */
 .pagination {
   display: flex;

@@ -13,6 +13,7 @@ Cloud অ্যাপ্লিকেশনের ভিত্তি হিসে
 
 ### Regions কী?
 
+
 ![Regions]({{ site.baseurl }}/assets/images/regions.png)
 
 
@@ -28,6 +29,7 @@ Cloud অ্যাপ্লিকেশনের ভিত্তি হিসে
 
 1. ভৌগলিক নাম (Geographical Name)
 2. Region কোড (Region Code)
+
 
 ![Regions Code]({{ site.baseurl }}/assets/images/region-code.png)
 
@@ -67,6 +69,7 @@ Enterprise প্রতিষ্ঠানগুলোকে অনেক সম�
 ---
 
 ### Availability Zones (AZ) কী?
+
 
 ![Availability-Zones]({{ site.baseurl }}/assets/images/Availability-Zones.png)
 
@@ -126,9 +129,11 @@ AZ-কে চিহ্নিত করা হয় Region কোডের সঙ�
 যদি তা সম্ভব না হয়, তাহলে আপনার ওয়ার্কলোড কমপক্ষে দুটি AZ-এ replicate করুন।
 এর ফলে একটি AZ পুরোপুরি নষ্ট হলেও, দ্বিতীয় AZ থেকে আপনার অ্যাপ্লিকেশন সচল থাকবে এবং ইউজারদের ট্রাফিক পরিচালনা করতে পারবে।
 
+
 ![Maintain Resiliency]({{ site.baseurl }}/assets/images/Maintain-Resiliency.png)
 
 
+#### Resources:
 
 <a href="https://aws.amazon.com/about-aws/global-infrastructure/" target="_blank" rel="noopener noreferrer">AWS: Global Infrastructure</a>
 
