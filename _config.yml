@@ -7,7 +7,7 @@ markdown: kramdown
 collections:
   aws:
     output: true
-    permalink: /aws/:name/
+    permalink: /aws-cloud-technical-essentials/:name/
 
 defaults:
   - scope:

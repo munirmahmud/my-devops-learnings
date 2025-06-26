@@ -96,3 +96,8 @@ AWS-এর যেকোনো সার্ভিস ব্যবহার কর
 
 এইভাবে **Shared Responsibility Model** আপনাকে বুঝতে সাহায্য করে AWS এবং আপনার মধ্যে কোন দায়িত্ব কার—এবং এটি নির্ভর করে আপনি কোন সার্ভিস ব্যবহার করছেন তার উপর।
 
+
+#### RESOURCES
+
+<a href="https://aws.amazon.com/compliance/shared-responsibility-model/" target="_blank" rel="noopener noreferrer">AWS: Shared Responsibility Model</a>
+
