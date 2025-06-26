@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AWS Topics
-permalink: /aws/
+permalink: /aws-cloud-technical-essentials/
 ---
 
 # AWS Cloud Technical Essentials
