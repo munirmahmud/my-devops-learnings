@@ -13,6 +13,21 @@ body {
   color: #d1d7e0;
 }
 
+h1, h2, h3, h4 {
+  color: #d1d7e0;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 nav {
   margin-bottom: 3rem;
 }
@@ -42,11 +57,20 @@ main p > strong {
 }
 
 
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
+.aws-content-wrapper ul li {
+  line-height: 1.8;
+  list-style: none;
 }
+.aws-content-wrapper ul li a {
+  transition: color 0.3s ease;
+  text-decoration: none;
+  color: #d1d7e0;
+}
+.aws-content-wrapper ul li a:hover {
+  color: #b5c3d8;
+}
+
+
 
 
 /* PAGINATION */
