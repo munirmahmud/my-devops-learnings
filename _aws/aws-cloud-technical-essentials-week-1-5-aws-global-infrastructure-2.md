@@ -1,6 +1,6 @@
 ---
 title: AWS Global Infrastructure Part 2
-course: aws-global-infrastructure-part-2
+course: aws-cloud-technical-essentials-week-1
 order: 5
 layout: aws_post
 ---

@@ -1,5 +1,6 @@
 ---
 title: What is AWS?
+course: aws-cloud-technical-essentials-week-1
 order: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Welcome to the AWS Course
+course: aws-cloud-technical-essentials-week-1
 order: 1
 ---
 
